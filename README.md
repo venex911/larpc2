@@ -1027,4 +1027,3 @@ http://www.google.com       # Public (DO NOT TEST)
 
 ---
 
-*Last Updated: January 2024 | Version 2.0.0*
