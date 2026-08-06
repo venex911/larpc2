@@ -968,20 +968,6 @@ SOFTWARE.
 - **Python Community** - For excellent libraries
 - **Cybersecurity Community** - For testing and feedback
 
----
-
-## 📞 Support
-
-### Documentation
-- **GitHub**: [LarpC2 Repository](https://github.com/venexdev/LarpC2)
-- **Issues**: [Report Issues](https://github.com/venexdev/LarpC2/issues)
-
-### Contact
-- **Developer**: Venex
-- **Telegram**: [@VenexDev](https://t.me/VenexDev)
-
----
-
 <div align="center">
 
 **[⬆ Back to Top](#larpc2---advanced-network-stress-testing-framework)**
